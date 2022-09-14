@@ -1,15 +1,14 @@
-# Varun Mahendra Khadayate&nbsp;<img src="Assets\Mario_Hello_Big.gif" width="30px" height="30px">
+# Varun Mahendra Khadayate&nbsp;<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30px" height="30px">
 
-[![Twitter Badge](https://img.shields.io/badge/-@Varun-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/khadayate_varun)](https://twitter.com/khadayate_varun) [![Linkedin Badge](https://img.shields.io/badge/-Varun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varun-k-578711195/)](https://www.linkedin.com/in/varun-k-578711195/) [![Gmail Badge](https://img.shields.io/badge/-varunkhadayate0810@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:theshubhamkumar01@gmail.com)](mailto:varunkhadayate0810@gmail.com) 
-
-<img align="right" alt="PC GIF" src="Assets\PC.gif" width="35px" height="35px"/>
+[![Twitter Badge](https://img.shields.io/badge/-@Varun-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/khadayate_varun)](https://twitter.com/khadayate_varun) [![Linkedin Badge](https://img.shields.io/badge/-Varun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varun-k-578711195/)](https://www.linkedin.com/in/varun-k-578711195/) [![Gmail Badge](https://img.shields.io/badge/-varunkhadayate0810@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:varunkhadaayte0810@gmail.com)](mailto:varunkhadayate0810@gmail.com) 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### <img src="Assets\Hi.gif" width="25px" height="25px"> Hello world!&nbsp;<img src="Assets\Earth.gif" width="25px" height="25px">
 
 <p>
   <em>
     I am a Final Year undergraduate from <a href="https://www.nmims.edu/"> <b>Narsee Monjee Institute of Management Studies</b>, Kharghar</a>. <br>
-    A <b>Web Developer by passion</b><img src="Assets\Developer.gif" width="30px" height="30px"><img src="Assets\Designer.gif" width="36px" height="36px"><br>and also a <b>Data Science Enthusiast</b><img src="Assets\tensorflow.gif" width="30px" height="30px">, who is <b>obsessed</b>
+    A <b>Web Developer by passion</b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px" height="40px"><br>and also a <b>Data Science Enthusiast</b><img src="Assets\tensorflow.gif" width="30px" height="30px">, who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and takes all the <b>oppurtunities</b> to 
     <b>grow</b> <img src="Assets\Rocket.gif" width="30px" height="30px">and 
     <b>excel.</b> <img src="Assets\Medal.gif" width="30px" height="30px">
