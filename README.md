@@ -16,25 +16,17 @@
   </em>  
 </p>
 
-- 🌱 I’m currently learning ReactJS, ReactNative and Cloud Fundamentals.
-- 💬 Ask me about Anything.
-- 📫 How to reach me: You can reach me on twitter and linkedin.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Coders Hardcode and listen to their fav playlist.
+:star2:	 🌱 I’m currently learning ReactJS, ReactNative and Cloud Fundamentals. :computer: <br>
+:thinking:	 💬 Ask me about Anything. :sunglasses:	<br>
+:smirk:	 📫 How to reach me: You can reach me on Twitter and Linkedin. <br>
+😄	  Pronouns: He/Him :technologist:	 <br>
+:zap:	 Fun fact: Coders Hardcode :octocat: and listen to their fav playlist :headphones:.
 
 
 <br>
 
 ## GitHub's Activity Graph
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=vk0810-k&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-<br>
-<br>
-<br>
-
-<img src="https://github.com/mayukhsil/mayukhsil/blob/master/Assets/starwars.gif" alt="Star Wars" width="980">
 
 <br>
 
