@@ -77,6 +77,11 @@
 
 <br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vk0810-k&layout=compact" alt="vk0810-k" /></p>
+<br><br><br><br><br><br><br><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vk0810-k&show_icons=true" alt="vk0810-k" /></p>
+
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vk0810-k)
 
